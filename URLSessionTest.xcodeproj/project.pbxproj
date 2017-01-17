@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		700F45861E2E0B4400F7205F /* ReadMe.md in Sources */ = {isa = PBXBuildFile; fileRef = 700F45851E2E0B4400F7205F /* ReadMe.md */; };
 		70A5B9581E2CB5FE00E307CA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70A5B9571E2CB5FE00E307CA /* AppDelegate.swift */; };
 		70A5B95A1E2CB5FE00E307CA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70A5B9591E2CB5FE00E307CA /* ViewController.swift */; };
 		70A5B95D1E2CB5FE00E307CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 70A5B95B1E2CB5FE00E307CA /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		700F45851E2E0B4400F7205F /* ReadMe.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = ReadMe.md; sourceTree = "<group>"; };
 		70A5B9541E2CB5FE00E307CA /* URLSessionTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = URLSessionTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		70A5B9571E2CB5FE00E307CA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		70A5B9591E2CB5FE00E307CA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -38,6 +40,7 @@
 		70A5B94B1E2CB5FE00E307CA = {
 			isa = PBXGroup;
 			children = (
+				700F45851E2E0B4400F7205F /* ReadMe.md */,
 				70A5B9561E2CB5FE00E307CA /* URLSessionTest */,
 				70A5B9551E2CB5FE00E307CA /* Products */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				70A5B95A1E2CB5FE00E307CA /* ViewController.swift in Sources */,
 				70A5B9581E2CB5FE00E307CA /* AppDelegate.swift in Sources */,
+				700F45861E2E0B4400F7205F /* ReadMe.md in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,6 +267,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = KFBBRW3877;
 				INFOPLIST_FILE = URLSessionTest/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = de.freenet.area51.URLSessionTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -276,6 +281,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = KFBBRW3877;
 				INFOPLIST_FILE = URLSessionTest/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = de.freenet.area51.URLSessionTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -302,6 +308,7 @@
 				70A5B9681E2CB5FE00E307CA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
