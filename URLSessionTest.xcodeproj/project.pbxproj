@@ -99,7 +99,7 @@
 				TargetAttributes = {
 					70A5B9531E2CB5FE00E307CA = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = KFBBRW3877;
+						DevelopmentTeam = T2U84KCD4X;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -265,11 +265,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = KFBBRW3877;
+				DEVELOPMENT_TEAM = T2U84KCD4X;
 				INFOPLIST_FILE = URLSessionTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = de.freenet.area51.URLSessionTest;
+				PRODUCT_BUNDLE_IDENTIFIER = de.cmittendorf.area51.URLSessionTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -279,11 +279,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = KFBBRW3877;
+				DEVELOPMENT_TEAM = T2U84KCD4X;
 				INFOPLIST_FILE = URLSessionTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = de.freenet.area51.URLSessionTest;
+				PRODUCT_BUNDLE_IDENTIFIER = de.cmittendorf.area51.URLSessionTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
